@@ -23,3 +23,4 @@ Project ini masih bisa anda kembangkan ke ranah yang berkaitan dengan machine le
 
 #EDA #python #BI
 Anda bisa terhubung dengan saya jika ingin mendiskusikan sesuatu, kurniafreelancer@gmail.com
+
